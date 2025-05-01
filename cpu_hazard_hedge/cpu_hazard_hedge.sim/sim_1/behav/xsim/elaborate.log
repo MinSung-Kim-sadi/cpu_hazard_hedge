@@ -1,0 +1,9 @@
+Vivado Simulator 2019.2
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: C:/Xilinx/Vivado/2019.2/bin/unwrapped/win64.o/xelab.exe -wto 0133c0013575458ba9052b2aff66c71c --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot tb_cpu_hazard_hedge_behav xil_defaultlib.tb_cpu_hazard_hedge xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+ERROR: [VRFC 10-2989] 'mem_ini' is not declared [D:/vivado/cpu_hazard_hedge/tb_cpu_hazard_hedge.sv:60]
+ERROR: [VRFC 10-666] expression has 47 elements; expected 401 [D:/vivado/cpu_hazard_hedge/tb_cpu_hazard_hedge.sv:10]
+ERROR: [XSIM 43-3322] Static elaboration of top level Verilog design unit(s) in library work failed.

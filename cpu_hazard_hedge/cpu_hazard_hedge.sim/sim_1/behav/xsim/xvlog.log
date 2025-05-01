@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/vivado/cpu_hazard_hedge/Reg_File_32.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module Reg_File_32
+INFO: [VRFC 10-2263] Analyzing SystemVerilog file "D:/vivado/cpu_hazard_hedge/tb_cpu_hazard_hedge.sv" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module tb_cpu_hazard_hedge

@@ -1,0 +1,27 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../ALU_32.v" \
+"../../../../Branch_Detection.v" \
+"../../../../Control.v" \
+"../../../../Data_Mem.v" \
+"../../../../EX_MEM.v" \
+"../../../../Forwarding.v" \
+"../../../../Hazard_Detection.v" \
+"../../../../ID_EX.v" \
+"../../../../IF_ID.v" \
+"../../../../Inst_Mem.v" \
+"../../../../MEM_WB.v" \
+"../../../../MUX_4x1.v" \
+"../../../../PC.v" \
+"../../../../Sign_Extend.v" \
+"../../../../cpu_hazard_hedge.v" \
+
+sv xil_defaultlib  \
+"../../../../Reg_File_32.sv" \
+"../../../../tb_cpu_hazard_hedge.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

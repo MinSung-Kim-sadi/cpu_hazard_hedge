@@ -1,0 +1,22 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/vivado/cpu_hazard_hedge/ALU_32.v,1719414245,verilog,,D:/vivado/cpu_hazard_hedge/Branch_Detection.v,,ALU_32,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Branch_Detection.v,1719414245,verilog,,D:/vivado/cpu_hazard_hedge/Control.v,,Branch_Detection,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Control.v,1719414245,verilog,,D:/vivado/cpu_hazard_hedge/Data_Mem.v,,ALU_control;Control,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Data_Mem.v,1719414245,verilog,,D:/vivado/cpu_hazard_hedge/EX_MEM.v,,Data_Mem,,,,,,,,
+D:/vivado/cpu_hazard_hedge/EX_MEM.v,1718416606,verilog,,D:/vivado/cpu_hazard_hedge/Forwarding.v,,EX_MEM,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Forwarding.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/Hazard_Detection.v,,Forwarding,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Hazard_Detection.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/ID_EX.v,,Hazard_Detection,,,,,,,,
+D:/vivado/cpu_hazard_hedge/ID_EX.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/IF_ID.v,,ID_EX,,,,,,,,
+D:/vivado/cpu_hazard_hedge/IF_ID.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/Inst_Mem.v,,IF_ID,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Inst_Mem.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/MEM_WB.v,,Inst_Mem,,,,,,,,
+D:/vivado/cpu_hazard_hedge/MEM_WB.v,1718416610,verilog,,D:/vivado/cpu_hazard_hedge/MUX_4x1.v,,MEM_WB,,,,,,,,
+D:/vivado/cpu_hazard_hedge/MUX_4x1.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/PC.v,,MUX_4x1,,,,,,,,
+D:/vivado/cpu_hazard_hedge/PC.v,1719414246,verilog,,D:/vivado/cpu_hazard_hedge/Sign_Extend.v,,PC,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Reg_File_32.sv,1719414247,systemVerilog,,D:/vivado/cpu_hazard_hedge/tb_cpu_hazard_hedge.sv,,Reg_File_32,,,,,,,,
+D:/vivado/cpu_hazard_hedge/Sign_Extend.v,1719414247,verilog,,D:/vivado/cpu_hazard_hedge/cpu_hazard_hedge.v,,Sign_Extend,,,,,,,,
+D:/vivado/cpu_hazard_hedge/cpu_hazard_hedge.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/vivado/cpu_hazard_hedge/cpu_hazard_hedge.v,1719414245,verilog,,,,cpu_hazard_hedge,,,,,,,,
+D:/vivado/cpu_hazard_hedge/tb_cpu_hazard_hedge.sv,1744803546,systemVerilog,,,,tb_cpu_hazard_hedge,,,,,,,,
